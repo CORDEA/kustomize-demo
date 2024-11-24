@@ -6,3 +6,4 @@ commonLabels:
 resources:
   - backend.yaml
   - db.yaml
+  - job.yaml
