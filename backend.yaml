@@ -16,6 +16,7 @@ spec:
       containers:
         - name: backend
           image: alpine:3.7
+          command: ["sh"]
 ---
 apiVersion: v1
 kind: Service
